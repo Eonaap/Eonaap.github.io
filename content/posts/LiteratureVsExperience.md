@@ -1,8 +1,8 @@
 ---
-title: "Zwobbles "
-date: 2023-06-27T03:21:36+02:00
+title: "Master thesis: Literature vs. experience"
 draft: false
+weight: 4
 cover:
-    image: /Zwobblecover.jpg
+    image: /Thesis.png
 ---
-Zwobbles, LET'S GO!
+Literature, LET'S GO!
