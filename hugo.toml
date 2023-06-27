@@ -1,4 +1,4 @@
 baseURL = 'http://eonaap.github.io/'
 languageCode = 'en-us'
 title = 'Portfolio'
-theme = "ananke"
+theme = "PaperMod"
