@@ -6,42 +6,26 @@ weight: 3
 cover:
     image: /Thesis.png
 ---
-[Link to thesis](https://www.researchgate.net/publication/375239598_Analysing_the_value_of_project_management_literature_in_the_game_industry)
+[If you want to read the entire thesis, follow this link](https://www.researchgate.net/publication/375239598_Analysing_the_value_of_project_management_literature_in_the_game_industry)
 
 ## What is my thesis about?
-Zwobbles are cute balls of fur that roll around in the Zwora forest. When Lonolo wants to destroy their home, Muffin decides that they won't give up their home without a fight.
+When talking about project management in the game industry, literature does not seem to be a well-known topic. 
+While there is an abundance of literature that focuses on project management, literature like this that focuses on the game industry is difficult to find. 
+Furthermore, as a starting producer or project manager, it can be challenging to know how to gather knowledge on this matter. 
+This paper aims to shed light on this, to help starting producers and project managers have a better understanding of how to learn project management by focusing on literature, and how much it reflects on 
+important approaches people use in project management in the game industry.
 
-Explore the Zwobble universe by traversing though various levels and the unique ways.
-Zwobbles interact with eachother and the environment in this story-driven action adventure platformer!
+## How did I gather data?
+To gather data I conducted interviews with project managers and producers in the game industry. 
+During our interviews, I asked questions regarding participants’ accumulation of knowledge regarding project management. 
+Secondly, I let participants come up with their four most important approaches regarding four knowledge areas, which were “Integration Management”, “Time and Scope Management”, “Communications Management”, 
+and “Risk Management”. When a participant came up with 16 approaches, they performed a Q-Sort with them, sorting them on importance regarding a scenario of their choice. At last, we presented a list of approaches 
+by Besner and Hobbs (2006) and asked if any of them were important.
 
-## My role during the development
-My role was producer and developer. With a group of 2 developers and 2 artists, we had 2 weeks to create the game. This includes choosing the mechanics, creating the schedules, programming, art and trailer.
-
-As a developer, I developed all of the environmental mechanics (Interactables).     
-As a producer, I learned how to create and organise tasks for a team, and how to properly plan the development of a prototype for a development cycle of 2 weeks. 
-
-This projet was part of an incubator program called DAE Studios 
-[![DAELogo.png](/DAELogo.png)](https://www.daestudios.be?target=_blank)
-
-
-## Game Features
-### Cuddle mechanics
-
--Roll into another zwobble to stick together and become a cuddle. &nbsp;
-
--Disconnect one zwobble to give a boost to the cuddle. &nbsp;	
-
-![](https://img.itch.zone/aW1nLzkwNDcwNzcuZ2lm/original/o%2FCKHr.gif)
-### Interactables
--**Static moss** helps you to become static. Becoming static gives you the ability to traverse static walls.
-
--**Weighted flowers** need a certain amount of zwobbles in a cuddle to activate and open doors.
-
--**Jumpshrooms** are mushrooms that are very bouncy
-
--**Jump** on them to reach higher places.
-
-### Lonolo and his henchmen
-
--Lonolo is an evil zwobble that wants to destroy the zwora forest and all zwobbles in it. Throughout the levels, you will meet various of his henchmen that will try to stop you. They set traps in the level. Since they're zwobbles, you can add them to your cuddle to help you through the level. They won't be that easy to cath tho.
-
+## What are the results?
+The interview results reveal that the PMBOK© Guide and “A playful production process” lack almost half of the approaches brought up by participants. 
+Additionally, almost half of the approaches from the list of approaches by Besner and Hobbs were mentioned to be important. Considering these results, we conclude that both pieces of literature, while providing 
+some important approaches,  lack approaches that were mentioned to be important in the game industry according to our participants. Furthermore, we noticed that most approaches were mentioned only once. Additionally, 
+we noticed that experience seems to be more useful to starting producers and project managers than literature. Literature seems to have more value in enhancing project management skills, rather than building these skills 
+from literature. Lastly, an unexpected outcome of this research suggests that using an exploratory Q-Sort reveals what someone in project management finds important, alongside showing someone’s view on project management. 
+Some participants mentioned that looking at their Q-Sort was insightful and let them rethink what they find important in project management.
