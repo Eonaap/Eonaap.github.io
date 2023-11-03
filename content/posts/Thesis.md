@@ -2,7 +2,7 @@
 title: "Analysing project management literature in the game industry "
 date: 2023-11-03T03:21:36+02:00
 draft: false
-weight: 3
+weight: 5
 cover:
     image: /Thesis.png
 ---
