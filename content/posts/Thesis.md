@@ -6,7 +6,7 @@ weight: 3
 cover:
     image: /Thesis.png
 ---
-(https://www.researchgate.net/publication/375239598_Analysing_the_value_of_project_management_literature_in_the_game_industry)
+[Link to thesis](https://www.researchgate.net/publication/375239598_Analysing_the_value_of_project_management_literature_in_the_game_industry)
 
 ## What is my thesis about?
 Zwobbles are cute balls of fur that roll around in the Zwora forest. When Lonolo wants to destroy their home, Muffin decides that they won't give up their home without a fight.
